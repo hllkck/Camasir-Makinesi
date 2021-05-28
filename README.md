@@ -1,2 +1,2 @@
-# Say-sal-Lab
+# Camasir-makinesi
 Çamaşır makinesi vhdl kodları
